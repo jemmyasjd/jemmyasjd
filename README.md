@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hello Coders 👨‍💻. I'm Dalsaniya Jemmy
+  Hello Champs 👨‍💻. I'm Dalsaniya Jemmy
 </h1>
 
 <p align="center"> <b> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ✨</b> </p> 

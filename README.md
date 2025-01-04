@@ -6,7 +6,7 @@
 <p align="center"> <b> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ✨</b> </p> 
 
 # 💫 About Me:
-📖 I’m currently studying Computer Science & Engineering at PDEU, Gandhinagar<br>🌱 I’m currently a Full Stack Developer & learning Blockchain Development <br>📫 How to reach me - jemmydalsaniya@gmail.com
+📖 I’m currently studying Computer Science & Engineering at PDEU, Gandhinagar<br>🌱 I’m currently a Full Stack Developer & learning Devops <br>📫 How to reach me - jemmydalsaniya@gmail.com
 
 
 ## 🌐 Socials:
